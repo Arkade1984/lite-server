@@ -1,10 +1,12 @@
 {
-  "name": "lite-server",
-  "version": "2.5.4",
-  "description": "Lightweight development node server for serving a web app, providing a fallback for browser history API, loading in the browser, and injecting scripts on the fly.",
-  "main": "index.js",
+  "name": "Arkade1984",
+  "version": "0.0.1",
+  "description": "Project Development 2020",
+  "main": "index.html",
   "scripts": {
+    "start": "npm run lite",
     "test": "eslint *.js lib/*.js && istanbul cover _mocha -- -R spec"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
