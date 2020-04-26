@@ -1,16 +1,16 @@
 {
-  "name": "Arkade1984",
-  "version": "0.0.1",
-  "description": "Project Development 2020",
+  "name": "lite-server",
+  "version": "2.5.4",
+  "description": "Lightweight development node server for serving a web app, providing a fallback for browser history API, loading in the browser, and injecting scripts on the fly.",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "eslint *.js lib/*.js && istanbul cover _mocha -- -R spec"
-    "lite": "lite-server"
+    "lite": "lite-server" 
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpapa/lite-server.git"
+    "url": "https://github.com/Arkade1984/lite-server.git"
   },
   "keywords": [
     "angular",
@@ -27,7 +27,9 @@
   "bin": {
     "lite-server": "./bin/lite-server"
   },
-  "homepage": "https://github.com/johnpapa/lite-server#readme",
+  "author": "Valentino Figueroa",
+  "license": "ISC",
+  "homepage": "https://github.com/Arkade1984/lite-server.git",
   "dependencies": {
     "browser-sync": "^2.26.7",
     "connect-history-api-fallback": "^1.2.0",

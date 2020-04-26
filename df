@@ -1,0 +1,111 @@
+[33m11118af[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update package.json
+[33m6bc6b0c[m[33m ([m[1;31mupstream/master[m[33m)[m readme
+[33m7d02ff9[m lock update
+[33m4410aca[m changelog for security fixes
+[33ma1f8183[m Bump js-yaml from 3.7.0 to 3.13.1 (#154)
+[33mb66952c[m Bump handlebars from 4.0.6 to 4.1.2 (#159)
+[33mcdef287[m Bump moment from 2.17.1 to 2.24.0 (#162)
+[33m14f718f[m audit fixes
+[33m7de85f2[m Bump ws from 1.1.1 to 3.3.3
+[33mef35ef6[m Update eslint to the latest version 🚀 (#150)
+[33m1e29a04[m audit fix
+[33m0620b0d[m remove windows
+[33mc3c14dc[m changelog
+[33m27a3e87[m badge for Azure DEvOps
+[33mb4e9f34[m Merge branch 'master' of github.com:johnpapa/lite-server
+[33m2686bdf[m line break
+[33m6719b1a[m Update dependencies to enable Greenkeeper 🌴 (#149)
+[33m509f6f0[m pipeline
+[33mc558fb8[m testin
+[33mc66fe6e[m fixing readme
+[33mdd5fcf1[m 2.5.1
+[33m853880d[m 2.5.0
+[33m08cd0f2[m udpated var to let/const
+[33m2292dcc[m version update
+[33m8ec389b[m Update browser-sync reference per bug in downstream dependency (#138)
+[33m9d0a040[m 2.3 (#120)
+[33m37ca528[m baseDir run time options (#115)
+[33m27c0d5b[m Silent (#85)
+[33mbdddd53[m Merge pull request #72 from johnpapa/process-name
+[33ma819f6d[m Merge pull request #71 from johnpapa/pkg-bump
+[33m57b3c3d[m feat(): adds process name
+[33m59ed9c5[m pkg versions update
+[33m5e648a5[m Merge pull request #65 from johnpapa/fix/unit-test-60
+[33m461aada[m new unit test for feature #60
+[33m2251e76[m Update .travis.yml
+[33mc1a9a77[m Merge pull request #64 from johnpapa/unit-tests
+[33m20f5b42[m Merge pull request #63 from johnpapa/travis
+[33m798c77a[m Merge pull request #60 from kevinjamesus86/expose-instance
+[33m561b5e5[m update readme - function as bs-config exports
+[33mde5821a[m contributing instructions
+[33m859d600[m unit tests
+[33m65c529e[m travis ci
+[33me1403b1[m support fn as overrides exports
+[33m2962cf9[m create named instance
+[33m98fcd08[m 2.2.0
+[33mbb1141f[m Merge pull request #53 from johnpapa/fix/rewrite-html
+[33m5864946[m Merge branch 'master' into fix/rewrite-html
+[33m651f502[m Merge pull request #57 from qubithaze/performance
+[33ma74408a[m Added option to exclue node_modules directory by default to help alleviate performance problems with angular2 quickstart
+[33m913e3a4[m new browsersync version
+[33m6a4b2dc[m comment typo fix
+[33m0faa989[m use updated history fallback middleware version
+[33m94e2b08[m style fixes
+[33mee1aaeb[m update issue template
+[33m343e5a9[m update issue template
+[33med6b862[m add issue template
+[33mbaff4d0[m fix main exports
+[33m4204ccd[m use fallback middleware fork
+[33m5e4b35c[m fallback fix
+[33m23451df[m update npm
+[33m228afb9[m add init cb
+[33m7ca4323[m add init cb
+[33m99867a9[m module refactor
+[33m0c91461[m Merge pull request #43 from fvilers/patch-1
+[33me02099d[m Fixed typo in README.md
+[33md32f467[m bumping minor for new API on the CLI
+[33m9d4610b[m minor version bump
+[33mb22eab8[m Merge pull request #32 from valorkin/master
+[33mfda1deb[m feat(bin): added run time option to config file path and name
+[33m1cca4a3[m Merge pull request #30 from cgmartin/install-doc
+[33meab40c6[m fix dots
+[33m132bc13[m clarify local vs global install
+[33md5de297[m add npm badges
+[33m083a81e[m Update readme with install command
+[33m147aed3[m Update readme with install command
+[33m3bd3dce[m Merge pull request #27 from cgmartin/override-clarify
+[33m7f3c349[m clarify override usage
+[33m0a74994[m loggin the options
+[33m5a0a1b8[m Merge pull request #26 from cgmartin/files-fix
+[33m18ef22f[m add error handling
+[33ma47572b[m why
+[33m3d2b6e1[m comment
+[33m5984151[m Merge pull request #25 from cgmartin/files-fix
+[33ma9f0e6b[m fix files overrides and css inject issue
+[33mf757452[m SPA
+[33m7b0df67[m added chris
+[33me86a15a[m Merge pull request #16 from cgmartin/rcfile
+[33mc40e460[m readme update
+[33m1aa6504[m readme update
+[33md14440a[m fix middleware overrides
+[33mfe29bbd[m refactor to external defaults file
+[33m1d5c009[m Add support for browsersync configuration in external rc file
+[33m4ee1571[m typo
+[33m7153359[m indexfile option
+[33m02ab42f[m Merge pull request #7 from josefjura/master
+[33m54173e1[m Changed parameter name, updated README
+[33m230ff93[m Added an option for different file name
+[33mdbda05a[m port fix
+[33m427db17[m Merge pull request #4 from arielisaacs/master
+[33m9633787[m change port declaration
+[33m80f2e92[m tick
+[33md5805be[m added use case for baseDir array
+[33m8c4b7cf[m removed fallback option. we now default to whichever folder is specified by `open` and `index.html`
+[33m259cf9c[m added options to readme
+[33mf2dea60[m changed API to use --open. upped to 1.2.0
+[33mfde78b8[m bump to 1.1.0
+[33maae1ec1[m now works without source arg. v 1.0.4
+[33mb49d3bf[m 1.0.3
+[33mdb06d27[m v1.0.2
+[33mf52e320[m initial v1.0.1
+[33mb66b067[m Initial commit
